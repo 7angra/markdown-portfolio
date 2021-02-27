@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![free wifi](https://images.app.goo.gl/gUSdYSj7Z23abdQs5)
+jajajaja 
